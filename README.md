@@ -1,9 +1,13 @@
 Project Overview
+
 This project involves the development of an interactive sales data analysis dashboard using Microsoft Excel. The dashboard provides actionable insights into sales performance across various dimensions, helping visualize sales data by category, profit trends over time, geographical distribution of sales, monthly sales trends, and top customers contributing to profits.
 
 Data Preparation
+
 Steps Taken:
+
 Data Cleaning:
+
 Checked for duplicates and missing values to ensure data accuracy.
 Data Enrichment:
 Added two new columns for Year and Month to facilitate time-based analysis.
