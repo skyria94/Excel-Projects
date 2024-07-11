@@ -4,13 +4,11 @@ This project involves the development of an interactive sales data analysis dash
 
 Data Preparation
 
-Steps Taken:
+1)  Steps Taken:
 
-Data Cleaning:
+       Data Cleaning:Checked for duplicates and missing values to ensure data accuracy.
 
-Checked for duplicates and missing values to ensure data accuracy.
-Data Enrichment:
-Added two new columns for Year and Month to facilitate time-based analysis.
+       Data Enrichment:Added two new columns for Year and Month to facilitate time-based analysis.
 Data Insights
 Key Findings:
 Sales by Category:
