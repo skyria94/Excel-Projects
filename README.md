@@ -40,10 +40,11 @@ Dashboard
    
    Top 5 Customers Making Profits: Pie chart showing the percentage contribution of top customers to total 
    profits.
-Usage
-Requirements:
-Microsoft Excel
+Usage Requirements: Microsoft Excel
+
 Instructions:
-Open the Excel file: salesdata.xlsx.
-Navigate through the different sheets to view various analyses.
-Interact with the dashboard to explore different aspects of the sales data.
+   Open the Excel file: salesdata.xlsx.
+   
+   Navigate through the different sheets to view various analyses.
+   
+   Interact with the dashboard to explore different aspects of the sales data.
