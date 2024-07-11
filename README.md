@@ -6,21 +6,25 @@ Data Preparation
 
 1)  Steps Taken:
 
-       Data Cleaning:Checked for duplicates and missing values to ensure data accuracy.
+       Data Cleaning: Checked for duplicates and missing values to ensure data accuracy.
 
-       Data Enrichment:Added two new columns for Year and Month to facilitate time-based analysis.
+       Data Enrichment: Added two new columns for Year and Month to facilitate time-based analysis.
+
 Data Insights
-Key Findings:
-Sales by Category:
-Phones are the highest-grossing category with $330,007 in sales, followed by Chairs at $328,168.
-Profit Gained Over Time:
-Profit trends were analyzed across different years and categories.
-Sales by State:
-A geographical distribution map was created to identify top-performing regions.
-Monthly Sales:
-Sales trends were visualized over a year to understand monthly performance.
-Top 5 Customers Making Profits:
-A pie chart was created to showcase the contribution of top customers to overall profits.
+
+2)  Key Findings:
+
+    Sales by Category: Phones are the highest-grossing category with $330,007 in sales, followed by Chairs at 
+                       $328,168.
+
+Profit Gained Over Time: Profit trends were analyzed across different years and categories.
+
+Sales by State: A geographical distribution map was created to identify top-performing regions.
+
+Monthly Sales: Sales trends were visualized over a year to understand monthly performance.
+
+Top 5 Customers Making Profits: A pie chart was created to showcase the contribution of top customers to overall profits.
+
 Dashboard
 
 The dashboard provides a comprehensive view of sales data through various visualizations:
