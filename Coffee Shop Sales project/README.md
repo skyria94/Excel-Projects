@@ -5,7 +5,7 @@ This project presents a comprehensive dashboard visualizing sales data for a cof
 
 ## Dataset
 - The dataset consists of 149,116 rows and 17 columns.
-- [Coffee Shop Sales.xlsx](data/Coffee%20Shop%20Sales.xlsx)
+- [Coffee Shop Sales.xlsx](CoffeeShopSalesProject/Coffee%20Shop%20Sales.xlsx)
 
 ## Objectives
 ### Objective 1: Data Preparation
@@ -34,9 +34,9 @@ This project presents a comprehensive dashboard visualizing sales data for a cof
 - Advanced formatting techniques
 
 ## Project Files
-- [Coffee Shop Sales.xlsx](data/Coffee%20Shop%20Sales.xlsx): The dataset used for analysis.
-- [Coffee sales project.docx](docs/Coffee%20sales%20project.docx): Detailed project documentation.
-- [dashboard.png](images/dashboard.png): The dashboard image.
+- [Coffee Shop Sales.xlsx](CoffeeShopSalesProjectCoffee%20Shop%20Sales.xlsx): The dataset used for analysis.
+- [Coffee sales project.docx](CoffeeShopSalesProjectCoffee%20sales%20project.docx): Detailed project documentation.
+
 
 ## Usage
 To explore the project, download the files and open the Excel dashboard or review the project documentation.
