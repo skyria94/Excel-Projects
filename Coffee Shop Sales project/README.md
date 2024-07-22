@@ -42,4 +42,5 @@ This project presents a comprehensive dashboard visualizing sales data for a cof
 To explore the project, download the files and open the Excel dashboard or review the project documentation.
 
 ## Contact
-For any questions or feedback, feel free to reach out.
+For any questions or feedback, feel free to reach out [
+](https://www.linkedin.com/in/stefanos-kyriakopoulos-41764818b/)
